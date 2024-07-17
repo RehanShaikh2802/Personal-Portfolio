@@ -16,7 +16,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/RehanShaikh2802",
     resume:
-      "https://docs.google.com/document/d/e/2PACX-1vRGGdRZey7dwb_i8RZQPAXzOUHp3pN1mTZ6XrIQSXpP4e3cu_xhimj4Bt7NBBzqFfb9G-gbnD_yHvlr/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vTsUxue1ZyUxaiUeMekZOuMjVfymDv1pHDUkYZVNaNX1XZfyI3ybRD5eLfWhP92LND5qsdT5bitLi5X/pub",
     linkedin: "https://www.linkedin.com/in/rehan-shaikh-038822280/",
     twitter: "https://x.com/RehanSh2802",
     insta: "https://www.instagram.com/rehan__shaikh__20/",
@@ -280,7 +280,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/RehanShaikh2802/MovieMania",
-      webapp: "https://trackify.duckdns.org",
+      webapp: "https://moviesmania11.netlify.app",
     },
     {
       id: 0,
@@ -292,7 +292,7 @@ export const Bio = {
       tags: ["HTML","CSS","JAVASCRIPT"],
       category: "web app",
       github: "https://github.com/RehanShaikh2802/Random-Password-Generator",
-      webapp: "https://podstream.netlify.app/",
+      webapp: "https://randompasswordsgen.netlify.app",
     
     },
     {
@@ -310,10 +310,10 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/RehanShaikh2802/QR-generator",
-      webapp: "https://vexa-app.netlify.app/",
+      webapp: "https://qrgeneratorz.netlify.app",
     },
     {
-      id: 1,
+      id: 5,
       title: "TicTacToe",
       date: "July 2024 - July 2024 ",
       description:
@@ -327,7 +327,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/RehanShaikh2802/TicTacToe",
-      webapp: "https://vexa-app.netlify.app/",
+      webapp: "https://ticktacko.netlify.app",
     },
     //RPA
     {
@@ -341,7 +341,7 @@ export const Bio = {
       tags: ["Automation Anywhere", "Excel"],
       category: "RPA",
       github: "https://github.com/RehanShaikh2802",
-      webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+      webapp: "https://github.com/RehanShaikh2802",
     },
   ];
   

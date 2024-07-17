@@ -1,7 +1,6 @@
 
 import { CloseRounded, GitHub, LinkedIn } from '@mui/icons-material';
 import { Modal } from '@mui/material';
-import { color } from 'framer-motion';
 import React from 'react'
 import styled from 'styled-components'
 
@@ -230,6 +229,7 @@ const index = ({ openModal, setOpenModal }) => {
                     )}
                     <ButtonGroup>
                         <Button dull href={project?.github}  style={{textDecoration: 'none', color: 'white'}} target='new'>View Code</Button>
+                        <Button href={project?.webapp} target='new'>View Live App</Button>
                     </ButtonGroup>
                 </Wrapper>
             </Container>
