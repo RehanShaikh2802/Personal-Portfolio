@@ -2,6 +2,7 @@ import qrGeneratorImage from '../images/qr-generator.png' ;
 import MoviemaniaImage from '../images/moviemania.png';
 import RandomPasswordImage from '../images/random-password.png';
 import RobotImage from '../images/robot.jpeg';
+import TicImage from '../images/tictactoe.png'
 export const Bio = {
     name: "Rehan Shaikh",
     roles: [
@@ -311,7 +312,23 @@ export const Bio = {
       github: "https://github.com/RehanShaikh2802/QR-generator",
       webapp: "https://vexa-app.netlify.app/",
     },
-    
+    {
+      id: 1,
+      title: "TicTacToe",
+      date: "July 2024 - July 2024 ",
+      description:
+        "Tic Tac Toe is a classic game where two players take turns marking spaces in a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.",
+        image: TicImage,
+      tags: [
+       "HTML",
+       "CSS",
+       "REACTJS",
+       "REACTJSX",
+      ],
+      category: "web app",
+      github: "https://github.com/RehanShaikh2802/TicTacToe",
+      webapp: "https://vexa-app.netlify.app/",
+    },
     //RPA
     {
      
